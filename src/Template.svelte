@@ -24,6 +24,6 @@
     <button on:click={handleClick}>Hide field id</button>
   </div>
   <div>id: {document.id || ""}</div>
-  <div>name: {document.name}</div>
+  <div>issued on: {document.issuedOn}</div>
   <div>description: {document.description}</div>
 </div>

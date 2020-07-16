@@ -23,7 +23,7 @@
 <div id="default-template">
   <h3>This is the OpenAttestation default renderer</h3>
   <div class="alert" role="alert">
-    You see this template because the certificate issuer miconfigured the template configuration of your document.
+    You see this template because the certificate issuer misconfigured the template configuration of your document.
     Please check with the certificate issuer. More information is available in{' '}
     <a href="https://openattestation.com/docs/advanced/custom-renderer" target="_blank" rel="noopener noreferrer">
       the documentation
