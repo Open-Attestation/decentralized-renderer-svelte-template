@@ -1,8 +1,4 @@
-_Psst — looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)_
-
----
-
-# svelte app
+# Svelte Template
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
@@ -14,6 +10,9 @@ cd svelte-app
 ```
 
 _Note that you will need to have [Node.js](https://nodejs.org) installed._
+
+_Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)_
+
 
 ## Get started
 
@@ -88,7 +87,7 @@ npm run build
 surge public my-project.surge.sh
 ```
 
-### Development
+## Development
 
 The logic on the template configuration is the same as explained in the [main documentation](https://openattestation.com/docs/advanced/custom-renderer) (even if the document focuses on a react base):
 
