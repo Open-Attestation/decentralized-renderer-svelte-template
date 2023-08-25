@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "penpal": "^4.1.1",
-    "sirv-cli": "^0.4.4",
+    "sirv-cli": "^0.4.6",
     "svelte-actions-mutation": "^1.0.0"
   },
   "prettier": {
